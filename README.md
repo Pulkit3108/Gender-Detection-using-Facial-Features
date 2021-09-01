@@ -7,4 +7,4 @@ A Web App which is made using Flask Web Framework in Python. The Model is traine
 #
 > No Face
 
-![imgur](https://i.imgur.com/wOM9YYn.gif)
+![](https://i.imgur.com/wOM9YYn.gif)
