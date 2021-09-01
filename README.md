@@ -7,7 +7,7 @@ A Web App which is made using Flask Web Framework in Python. The Model is traine
 #
 > Single Face
 
-![](https://i.imgur.com/Do8oJ4p.gif)
+![](https://thumbs.gfycat.com/HairyFixedIlsamochadegu-size_restricted.gif)
 > Multiple Faces
 
 ![](https://i.imgur.com/Iq6pIC6.gif)
