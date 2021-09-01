@@ -8,7 +8,7 @@
 #
 > Single Face
 
-![](https://i.imgur.com/FMsDvg9.gif)
+[![ezgif.com-gif-maker055264248fa0155e.gif](https://s9.gifyu.com/images/ezgif.com-gif-maker055264248fa0155e.gif)](https://gifyu.com/image/GJsk)
 > Multiple Faces
 
 ![](https://thumbs.gfycat.com/TiredPastBubblefish-size_restricted.gif)
