@@ -8,9 +8,6 @@ Link to Dataset: https://www.kaggle.com/cashutosh/gender-classification-dataset
 #
 > Single Face
 
-![](https://thumbs.gfycat.com/IckyDefinitiveClingfish-size_restricted.gif)
-
-
 ![](https://thumbs.gfycat.com/RequiredDeafeningBat-size_restricted.gif)
 > Multiple Faces
 
