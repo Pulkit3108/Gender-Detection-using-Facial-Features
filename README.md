@@ -5,7 +5,6 @@ The acccuracy is approximately 92%
 
 Link to Dataset: https://www.kaggle.com/cashutosh/gender-classification-dataset
 ## Working
-#
 > Single Face
 
 ![](https://thumbs.gfycat.com/RequiredDeafeningBat-size_restricted.gif)
